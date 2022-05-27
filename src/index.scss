@@ -1,0 +1,14 @@
+/*abstracts*/
+@import  './styles/abstracts/variables';
+@import './styles/abstracts/mixims';
+
+/**/
+@import './styles/base/base';
+@import './styles/base/resets';
+
+/*components*/
+@import './styles/components/Navbar.scss';
+@import './styles/components/ProductCard.scss';
+@import './styles/components/ProductDetail.scss';
+@import './styles/components/Home.scss';
+@import './styles/components/About.scss'
